@@ -1,0 +1,4 @@
+.venv/
+data/*
+romantic_piano_corpus-v2.0/*
+__pycache__/
